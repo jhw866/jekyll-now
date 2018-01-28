@@ -15,12 +15,14 @@
 
 html {
   font-size: 100%;
+  height: 100%;
 }
 
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  height: 100%;
 }
 
 .container {
@@ -240,6 +242,10 @@ nav {
 //
 // .main
 //
+.main {
+  // To offset the footer
+  padding-bottom: 100px;
+}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -272,8 +278,8 @@ nav {
 }
 
 .wrapper-footer {
-  bottom: 0;
-  position: absolute;
+  bottom: 0px;
+  position: fixed;
   background-color: $lightGray;
   border-bottom: 1px solid #ddd;
   border-top: 1px solid #ddd;
