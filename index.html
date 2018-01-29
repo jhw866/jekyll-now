@@ -2,17 +2,10 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="profile-wrapper">
+  <img src="{{ site.baseurl }}/images/profile-pic.jpg" class="profile-pic" alt="Profile Pic">
+  <div class="profile-description">
+    <h1>{{ site.name }}</h1>
+    <p>{{ site.description }}</p>
+  </div>
 </div>
