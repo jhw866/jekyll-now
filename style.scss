@@ -248,7 +248,7 @@ nav {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1.4em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -271,6 +271,10 @@ nav {
     margin-top: 10px;
   }
 
+  .date {
+    margin: 1.0em 0em;
+  }
+  
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
