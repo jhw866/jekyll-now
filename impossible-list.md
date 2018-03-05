@@ -17,6 +17,8 @@ In short, you can think of the Impossible List as Bucket List that grows and con
 
 So, to keep myself accountable, I am showing this list off to the world. I hope to consistently cross off items as I complete them as well as add ideas when they come to mind. 
 
+_Last Updated: 3/4/18_
+
 ## Current Focuses
 * Building an android app that I deploy to the Google Play Store
 * Growing as a software engineer
@@ -72,6 +74,7 @@ So, to keep myself accountable, I am showing this list off to the world. I hope 
 * Shoot a .50 cal Sniper Rifle
 * Using some sort of rifle, hit a target at 300 yards
 * Decorate my apartment
+* Complete at 3 month challenge of reading 25 pages a day
 
 ## International Travel Goals
 * Go to England
