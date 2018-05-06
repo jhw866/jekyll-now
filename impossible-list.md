@@ -17,7 +17,7 @@ In short, you can think of the Impossible List as Bucket List that grows and con
 
 So, to keep myself accountable, I am showing this list off to the world. I hope to consistently cross off items as I complete them as well as add ideas when they come to mind. 
 
-_Last Updated: 3/4/18_
+_Last Updated: 5/6/18_
 
 ## Current Focuses
 * Building an android app that I deploy to the Google Play Store
@@ -65,7 +65,7 @@ _Last Updated: 3/4/18_
 ## Fun/Crazy Goals
 * ~~Go Snowboarding~~ <span class="completed">(01/04/16)</span>
     * Find a slope on the East Coast
-* Take a road trip with my dog across the United States for 3 weeks
+* Take a road trip with my dog across the United States
 * Go hiking in Yosemite National Park with my dog
 * Go Skydiving
 * Go to New England to see the trees change colors
@@ -106,10 +106,11 @@ _Last Updated: 3/4/18_
 ## Life Goals
 * ~~Graduate from college~~ <span class="completed">(05/21/16)</span>
     * Graduated with 3.35 GPA and minor in _Culture and the Crusades_
-* Get a German Shepherd puppy
+* ~~Get a German Shepherd puppy~~ <span class="completed">(4/21/18)</span>
 * Pay off student loans
 * Pay off my current car
 * Work with some crew to build houses for the less fortunate
+* Learn to speak Spanish
 
 ## Gamer Goals
 * Play Halo, Halo 2, Halo 3: ODST, and Halo 3, in that Order

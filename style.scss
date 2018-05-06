@@ -148,6 +148,10 @@ img {
     clear: both;
 }
 
+.center-text {
+  text-align: center;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -330,6 +334,17 @@ footer {
   text-align: center;
 }
 
+.about-pic-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  
+  .about-pic {
+    height: 50%;
+    width: 50%;
+    border-radius: 10pt;
+  }
+}
 // End Footer
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
