@@ -17,7 +17,7 @@ In short, you can think of the Impossible List as Bucket List that grows and con
 
 So, to keep myself accountable, I am showing this list off to the world. I hope to consistently cross off items as I complete them as well as add ideas when they come to mind. 
 
-_Last Updated: 5/6/18_
+_Last Updated: 5/26/18_
 
 ## Current Focuses
 * Building an android app that I deploy to the Google Play Store
@@ -116,5 +116,5 @@ _Last Updated: 5/6/18_
 * Play Halo, Halo 2, Halo 3: ODST, and Halo 3, in that Order
 * Complete the Witcher 3: Heats and Stone
 * Complete the Witcher 3: Blood and Wine
-* Complete Gears of War 4
+* ~~Complete Gears of War 4~~ <span class="completed">(3/13/2018)</span>
 * Complete Middle Earth: Shadow of War
