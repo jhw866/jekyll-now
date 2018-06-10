@@ -21,4 +21,4 @@ Right?!?! His name is Spartan, a pure-bred German Shepherd, and he is a hard-hea
 
 ### How do I reach you?
 
-If you want to say wut up, [email me here](mailto:{{site.footer-links.email}}). Otherwise, I'll catch you later. Have a good one!
+If you want to say wut up, [email me here](mailto:{{site.footer-links.email}}). You can check out my resume [here]({{ site.baseurl }}/docs/resume.pdf). Otherwise, I'll catch you later. Have a good one!
