@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_no_navbar
 ---
 
 <div class="profile-wrapper">
@@ -7,5 +7,10 @@ layout: default
   <div class="profile-description">
     <h1>{{ site.name }}</h1>
     <p>{{ site.description }}</p>
+    <span>
+      <a href="{{ site.baseurl }}/about">About</a> | 
+      <a href="{{ site.baseurl }}/blog">Blog</a> | 
+      <a href="{{ site.baseurl }}/impossible-list">Impossible List</a>
+    </span>
   </div>
 </div>

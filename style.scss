@@ -302,10 +302,11 @@ nav {
   align-items: center;
   display: flex;
   flex-direction: column;
+  margin-top: 70px;
 
   .profile-pic {
-    height: 50%;
-    width: 50%;
+    height: 40%;
+    width: 40%;
     border-radius: 10pt;
   }
 
@@ -330,7 +331,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 5px 0;
   text-align: center;
 }
 
@@ -340,8 +341,8 @@ footer {
   flex-direction: column;
   
   .about-pic {
-    height: 50%;
-    width: 50%;
+    height: 40%;
+    width: 40%;
     border-radius: 10pt;
   }
 }
