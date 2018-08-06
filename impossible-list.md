@@ -17,10 +17,9 @@ In short, you can think of the Impossible List as Bucket List that grows and con
 
 So, to keep myself accountable, I am showing this list off to the world. I hope to consistently cross off items as I complete them as well as add ideas when they come to mind. 
 
-_Last Updated: 5/26/18_
+_Last Updated: 8/5/18_
 
 ## Current Focuses
-* Building an android app that I deploy to the Google Play Store
 * Growing as a software engineer
 * Being an awesome friend and a loving son to my parents
 * Adopting and caring for a puppy
@@ -43,7 +42,8 @@ _Last Updated: 5/26/18_
 * Speak Fluent German
 
 ## Professional Goals
-* Develop an android app and deploy it to the Google play store
+* ~~Develop an Android app on my own~~ <span class="completed">(07/29/18)</span>
+    * Deploy an Android app to the Google play store
 * Develop a video game on my own, including the art
 * Build a webcrawler that indexes various websites
 * Learn Node.js (I really hate JavaScript so this might be hard)
@@ -92,7 +92,7 @@ _Last Updated: 5/26/18_
 * Go to San Francisco
 * Go to Los Angeles
 * Go to Boston
-* Go to Seattle
+* ~~Go to Seattle~~ <span class="completed">(07/08/18)</span>
 * Go to Yosemite National Park
 * Go to Philadelphia
 * Go to Alaska
