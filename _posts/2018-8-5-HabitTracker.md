@@ -1,11 +1,12 @@
 ---
 title: "Habit Tracker: A Post-Analysis"
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 ## Introduction
 I have only built one Android app before, called Tap-Tap-Tap, which was a final project for my Android class back in college. It was a pretty simplistic app. Like a typing test on a computer, you test how fast you would type on your phone. The app would keep track of all the text your currently typed. The text would highlight red when you got an incorrect letter and green when you got a correct letter. It has a database full of phrases and the ability to add your own. For learning android, it was a pretty fun project.
-
+<!--more-->
 After the course, I was ready to explore more. Services, Broadcast Receivers, Networks, Android functionality in general interested me. I had one app that never really saw the light of day and wasn’t really exploring what I wanted to explore. Then I came upon the idea for building a habit tracking app.
 
 This was the perfect idea! This would touch all the areas I wanted to learn, plus the idea is rather simple so understanding the project wouldn’t be difficult.
