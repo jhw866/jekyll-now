@@ -13,7 +13,7 @@ A factory class is a design pattern used for creating objects. It is a centraliz
 
 The prefab class would have be a `GameObject` in the scene. For each prefab you want to create, you need to create reference in the factory class.
 
-```C#
+```c#
 public class PrefabFactory : MonoBeahvior 
 {
     public GameObject chair;
@@ -24,7 +24,7 @@ public class PrefabFactory : MonoBeahvior
 
 Since the class is a MonoBehavior attached to the game object, we use the Start() method to create an instance of the object so that when the static method is called, it can can access the references to the prefabs. This is because Prefabs can only be assigned in the instance of a class and not statically. 
 
-```C#
+```c#
 public class PrefabFactory : MonoBeahvior 
 {
     ...
@@ -45,7 +45,7 @@ The code above checks if the instance is null and if it is, locks and sets the i
 
 You will then need to define a `PrefabType` enum. This enum indicates what kind of prefab you want to make. For each prefab, you will need to have an enum value.
 
-```C#
+```c#
 public enum PrefabType 
 {
     Chair,
@@ -55,7 +55,7 @@ public enum PrefabType
 ```
 
 Next you need to have a static method to get the Prefab, or in engineering mumbo jumbo, Factory Method. Using the prefabType parameter, we determine the type you want to create.
-```C#
+```c#
 public class PrefabFactory : MonoBeahvior 
 {
     public GameObject chair;
