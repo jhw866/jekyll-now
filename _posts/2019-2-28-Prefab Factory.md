@@ -55,7 +55,7 @@ public enum PrefabType
 ```
 
 Next you need to have a static method to get the Prefab, or in engineering mumbo jumbo, Factory Method. Using the prefabType parameter, we determine the type you want to create.
-```c#
+```C#
 public class PrefabFactory : MonoBeahvior 
 {
     public GameObject chair;
