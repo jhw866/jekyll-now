@@ -36,7 +36,7 @@ First, we will need some count value that we can increment. In this case, we can
 
 Now to put it all together. I am placing a sample script below
 
-```
+```c#
 public class SunMovement : MonoBehaviour
 {
     private float currentTime = 0;
